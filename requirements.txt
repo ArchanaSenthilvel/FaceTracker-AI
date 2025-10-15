@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+insightface==0.7.3
+onnxruntime==1.16.0
+pymongo==4.5.0
+numpy==1.24.3
+scipy==1.11.3
+onnx==1.14.1
