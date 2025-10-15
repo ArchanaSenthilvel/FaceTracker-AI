@@ -1,7 +1,7 @@
-# FaceTracker-AI---Intelligent-Visitor-Counter-with-Auto-Registration
+# FaceTracker AI Intelligent Visitor Counter with Auto Registration
 An AI-powered system that automatically detects, recognizes, tracks, and counts unique visitors in video streams using YOLOv8, InsightFace, and MongoDB.
 
-## ✨ Features
+### ✨ Features
 
 ✅ Real-time Face Detection using YOLOv8  
 ✅ Face Recognition with InsightFace    
@@ -15,7 +15,7 @@ An AI-powered system that automatically detects, recognizes, tracks, and counts 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ArchanaSenthilvel/facetrack-ai.git
+git clone https://github.com/ArchanaSenthilvel/FaceTracker-AI.git
 cd facetrack-ai
 ```
 
